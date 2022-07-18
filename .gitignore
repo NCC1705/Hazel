@@ -34,6 +34,10 @@
 *.out
 *.app
 
+# Files
+*.user
+
 # Folders
 bin/*
 bin-int/*
+
