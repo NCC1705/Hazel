@@ -40,4 +40,5 @@
 # Folders
 bin/*
 bin-int/*
+Hazel/vendor/*
 
